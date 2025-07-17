@@ -42,11 +42,6 @@ O projeto visa consolidar o aprendizado contínuo de **desenvolvimento front-end
 - Notas criadas a partir de materiais consumidos.
 - Escritas com **linguagem própria**, para internalização do conhecimento.
 
-### ✅ Templates & Logs
-
-- Modelos reutilizáveis para **padronizar** tipos de conteúdo.
-- Sistema leve de produtividade para registrar revisões, progresso e metas.
-
 ---
 
 ## 🧰 Tecnologias Estudadas
@@ -77,12 +72,6 @@ git clone https://github.com/Blackzin7778/Estudos-Programa-o.git
 - Baixe o [Obsidian](https://obsidian.md/)
 - Clique em `Abrir pasta como Vault` e selecione a raiz do repositório clonado.
 
-### 3. Usar Templates e Conectar Notas
-
-- Utilize os modelos disponíveis em `04 - Templates`.
-- Organize suas tarefas em `05 - Task & Logs`.
-- Conecte Zettels com backlinks e tags para reforçar o raciocínio.
-
 ---
 
 ## 📱 Acesso via Celular
@@ -102,15 +91,6 @@ Você pode abrir este repositório no seu celular com o **Obsidian Mobile**:
 3. Abra pelo aplicativo.
 
 > Alternativamente, use apps como **GitJournal** ou **Working Copy** para sincronizar com GitHub.
-
----
-
-## 🔄 Sincronização (Avançado)
-
-Para manter seus estudos sincronizados entre PC e celular, você pode:
-
-- Utilizar **Git + GitHub** (via commits e pull).
-- Usar o serviço pago **Obsidian Sync** (sincronização automática e criptografada).
 
 ---
 
