@@ -1,0 +1,10 @@
+{
+  "templater-obsidian:create-04 - Templates/01-Zettel.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "PageUp"
+    }
+  ]
+}

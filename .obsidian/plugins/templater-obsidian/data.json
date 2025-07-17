@@ -1,0 +1,54 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "04 - Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "04 - Templates",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "05 - Task & Logs",
+      "template": "04 - Templates/04-DailyLog.md"
+    },
+    {
+      "folder": "01 - Literature Notes",
+      "template": "04 - Templates/02-LiteratureNote.md"
+    },
+    {
+      "folder": "02 - Zettels",
+      "template": "04 - Templates/01-Zettel.md"
+    },
+    {
+      "folder": "00 - Inbox",
+      "template": "04 - Templates/00-InboxNote.md"
+    },
+    {
+      "folder": "03 - Projects",
+      "template": "04 - Templates/03-ProjectNote.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    "04 - Templates/01-Zettel.md"
+  ],
+  "startup_templates": [
+    "04 - Templates/01-Zettel.md"
+  ],
+  "intellisense_render": 1
+}

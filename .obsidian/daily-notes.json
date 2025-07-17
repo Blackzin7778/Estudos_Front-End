@@ -1,0 +1,6 @@
+{
+  "folder": "05 - Task & Logs",
+  "template": "04 - Templates/04-DailyLog",
+  "autorun": false,
+  "format": "YYYY-MM-DD"
+}
