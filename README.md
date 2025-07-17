@@ -12,11 +12,8 @@ A organização do Vault segue uma hierarquia modular e eficiente:
 📁 00 - Inbox            → Captura inicial de ideias, insights ou anotações rápidas.
 📁 01 - Literature Notes → Resumos de materiais consumidos (vídeos, livros, artigos).
 📁 02 - Zettels          → Notas atômicas conectadas com linguagem própria.
-📁 04 - Templates        → Modelos de anotações para padronizar novos conteúdos.
-📁 05 - Task & Logs      → Tarefas em andamento, listas de estudos e revisões.
 📁 Attachments           → Recursos complementares como imagens e PDFs.
 📁 .obsidian             → Configurações e plugins do Obsidian.
-🖼️ Pasted Images        → Imagens coladas diretamente nas notas.
 ```
 
 > 📌 **Recomendação:** para obter a melhor experiência, abra este repositório diretamente no aplicativo **Obsidian Desktop ou Mobile**.
